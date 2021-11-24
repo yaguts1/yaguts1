@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yaguts1
 - 👀 I’m interested in mechatronics 
-- 🌱 I’m currently learning C++,MATLAB,Python and Arduino
+- 🌱 I’m currently learning C++, MATLAB, Python and Arduino
 
 - 📫 How to reach me thiagonogy@gmail.com
 
