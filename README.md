@@ -1,4 +1,4 @@
--  Interested in mechatronics and computer vision
--  Currently learning C++, AI, Python and Arduino
+-  Interested in building my own webApp to study korean
+-  Currently learning C++, Node.js, Python and Arduino
 
 - 📫 thiagonogy@gmail.com
